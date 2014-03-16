@@ -1,0 +1,17 @@
+[
+{
+  "modid": "craftduino",
+  "name": "CraftDuino",
+  "description": "A connection between the digital and real world\n(Computercraft addon)",
+  "version": "0.0.0dev",
+  "mcversion": "1.6.4",
+  "logoFile": "/logo.png",
+  "url": "http://www.youtube.com.br/wellgameplay",
+  "updateUrl": "",
+  "authors": ["Welsiton Ferreira (wellgameplay)"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": ["Computercraft"]
+}
+]

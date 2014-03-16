@@ -1,4 +1,6 @@
-CraftDuinoMod
+CraftDuino (WIP)
 =============
 
-CraftDuino Mod for Minecraft
+A connection between the digital and real world
+
+(Computercraft addon)
